@@ -6,9 +6,9 @@
 
 <h2>📺 Study Guides:</h2>
 
+- [AZ-104 Study Notes](https://github.com/Nanobyte1991/AZ-104-Study-Notes)
 - Az-900
 - SC-900
-- AZ-104
 
 <h2>📊 Strategy:</h2>
 
