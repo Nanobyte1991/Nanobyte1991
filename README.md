@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jack! <br/><a href="https://www.linkedin.com/in/jack-milburn/">Senior IT Engineer</a>, Cybersecurity Professional</h1>
+<h1>Hi, I'm Jack! <br/><a href="https://www.linkedin.com/in/jack-milburn/">Senior IT Engineer</a>, Cybersecurity Professional, IT Consultant</h1>
 
 <h2>👨‍💻 PowerShell Azure Commands:</h2>
 
