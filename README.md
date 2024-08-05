@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 PowerShell Azure Commands:</h2>
 
-- PowerShell Azure Commands
+- [PowerShell Azure Commands](https://github.com/Nanobyte1991/PowerShell-Azure-Commands)
 
 <h2>📺 Study Guides:</h2>
 
