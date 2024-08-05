@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Jack! <br/><a href="https://www.linkedin.com/in/jack">Senior IT Engineer</a>, Cybersecurity Professional</h1>
 
-<!--
-**Nanobyte1991/Nanobyte1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 PowerShell Azure Commands:</h2>
 
-Here are some ideas to get you started:
+- PowerShell Azure Commands
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Study Guides:</h2>
+
+- Az-900
+- SC-900
+- AZ-104
+
+<h2>📊 Strategy:</h2>
+
+- Developing Soft Skills for Effective IT Leadership
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Jack | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/jack
