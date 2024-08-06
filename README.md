@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l46C9p2SEl1XBPxM4/giphy.gif" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" alt="Interesting GIF">
 </p>
 
 ## 👨‍💻 About Me
@@ -40,31 +40,6 @@
   </a>
 </p>
 
----
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nanobyte1991&theme=onedark&no-frame=true&margin-w=20&row=1&column=6" alt="GitHub Profile Trophy">
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nanobyte1991&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanobyte1991&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nanobyte1991&theme=radical" alt="GitHub Streak Stats">
-</p>
-
----
-
-## 📈 GitHub Activity Graph
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Nanobyte1991&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="GitHub Activity Graph">
