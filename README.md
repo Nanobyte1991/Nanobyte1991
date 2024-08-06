@@ -22,11 +22,7 @@
 - 💼 Senior IT Engineer, Cybersecurity Professional, IT Consultant
 - 🌱 Currently learning **Developing Cloud Security Strategies**
 
-## 🔧 Skills and Commands
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" />
-</p>
+## PowerShell
 
 - [PowerShell Azure Commands](https://github.com/Nanobyte1991/PowerShell-Azure-Commands)
 
@@ -73,4 +69,3 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Nanobyte1991&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
-
