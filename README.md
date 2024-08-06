@@ -8,7 +8,7 @@
 
 - [AZ-104 Study Notes](https://github.com/Nanobyte1991/AZ-104-Study-Notes)
 - [AZ-900 Study Notes](https://github.com/Nanobyte1991/AZ-900-Study-Notes)
-- SC-900
+- [SC-900 Study Notes](https://github.com/Nanobyte1991/SC-900-Study-Notes)
 
 <h2>📊 Strategy:</h2>
 
@@ -23,3 +23,4 @@
 [<img align="left" alt="Jack | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jack-milburn
+****
