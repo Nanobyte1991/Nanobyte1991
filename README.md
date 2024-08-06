@@ -22,34 +22,19 @@
 - 💼 Senior IT Engineer, Cybersecurity Professional, IT Consultant
 - 🌱 Currently learning **Developing Cloud Security Strategies**
 
-## 🔧 Skills
+## 🔧 Skills and Commands
 
-### Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
 </p>
+
+- [PowerShell Azure Commands](https://github.com/Nanobyte1991/PowerShell-Azure-Commands)
 
 ## 📺 Study Guides
 
 - [AZ-104 Study Notes](https://github.com/Nanobyte1991/AZ-104-Study-Notes)
 - [AZ-900 Study Notes](https://github.com/Nanobyte1991/AZ-900-Study-Notes)
 - [SC-900 Study Notes](https://github.com/Nanobyte1991/SC-900-Study-Notes)
-
-## 👨‍💻 PowerShell Azure Commands
-
-- [PowerShell Azure Commands](https://github.com/Nanobyte1991/PowerShell-Azure-Commands)
-
-## 📊 Strategy
-
-- Developing Soft Skills for Effective IT Leadership
-
-## 🔧 Projects
-
-- Home Lab
 
 ## 🤳 Connect with me
 
