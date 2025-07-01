@@ -22,6 +22,7 @@
 - 💼 Senior IT Engineer, Cybersecurity Professional, IT Consultant
 - 🌱 Currently learning **Developing Cloud Security Strategies**
 
+<!-- START_DAILY_REPORT -->
 # Path to your GitHub profile README (local clone of Nanobyte1991/Nanobyte1991)
 PROFILE_README = "../Nanobyte1991/README.md"  # Adjust path if needed
 
@@ -53,7 +54,7 @@ if os.path.exists(PROFILE_README):
         f.write(updated)
 
     print("✅ GitHub profile README updated.")
-
+<!-- END_DAILY_REPORT -->
 
 ## PowerShell
 
