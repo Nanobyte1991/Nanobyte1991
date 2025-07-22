@@ -47,12 +47,26 @@
 
 ---
 
-## 🗂️ Cybersecurity Toolkits & Resources
+## 🗂️ Cybersecurity Toolkits & Guides
 
-- [SMB Cybersecurit]()
+- [SMB Cybersecurity Toolkit](https://github.com/Nanobyte1991/SMB_Cybersecurity_Toolkit)  
+  A toolkit for auditing, securing, and hardening SMB protocol services.
 
-- [Cloud Security Automation](https://github.com/Nanobyte1991/Cloud-Security-Automation)  
-  Automating cloud security controls, compliance checks, and monitoring.
+- [Security Incident Response Guide](https://github.com/Nanobyte1991/security-incident-response-guide)  
+  A comprehensive guide to incident response including runbooks, checklists, and communication templates.
 
-- [Incident Response Playbooks](https://github.com/Nanobyte1991/Incident-Response-Playbooks)  
-  Ready-to-use playbooks for various cybersecurity incident sce
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jack-milburn/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Nanobyte1991&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
