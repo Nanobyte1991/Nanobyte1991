@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Jack! <br/><a href="https://www.linkedin.com/in/jack-milburn/">Senior IT Engineer</a>, Cybersecurity Professional, IT Consultant</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nanobyte1991&label=Profile%20views&color=0e75b6&style=flat" alt="Nanobyte1991" />
+  <img src="https://komarev.com/ghpvc/?username=Nanobyte1991&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Nanobyte1991?tab=followers">
-    <img src="https://img.shields.io/github/followers/Nanobyte1991?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/Nanobyte1991?label=Followers&style=social" alt="GitHub Followers Badge">
   </a>
   <a href="https://github.com/Nanobyte1991?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Nanobyte1991?label=Stars&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/stars/Nanobyte1991?label=Stars&style=social" alt="GitHub Stars Badge">
   </a>
 </p>
 
@@ -19,41 +19,39 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 💼 **Senior IT Engineer**, **Cybersecurity Professional**, **IT Consultant**
-- 🛡️ Passionate about **Cybersecurity, Automation, and Cloud Infrastructure**
-- 🌱 Currently learning **Developing Cloud Security Strategies**
+I'm an experienced **Senior IT Engineer** and **Cybersecurity Professional** specializing in infrastructure, cloud security, and automation.  
+I create tools and guides to help IT and security teams work smarter, faster, and safer.
 
----
-
-## 🛠️ PowerShell
-
-- [PowerShell Azure Commands](https://github.com/Nanobyte1991/PowerShell-Azure-Commands)  
-  PowerShell scripts for managing and automating Azure environments.
+💼 **Roles:** IT Engineer | Cybersecurity Consultant | Automation Advocate  
+🌱 **Currently Learning:** Cloud Security Strategy & Threat Detection Automation  
+🛡️ **Focus:** Cybersecurity, Cloud Automation, Infrastructure Hardening
 
 ---
 
-## 📚 Study Guides
+## 🚀 Projects & Resources
 
-- [AZ-104 Study Notes](https://github.com/Nanobyte1991/AZ-104-Study-Notes)  
-  Microsoft Azure Administrator Associate prep notes.
-
-- [AZ-900 Study Notes](https://github.com/Nanobyte1991/AZ-900-Study-Notes)  
-  Azure Fundamentals learning materials.
-
-- [SC-900 Study Notes](https://github.com/Nanobyte1991/SC-900-Study-Notes)  
-  Microsoft Security, Compliance, and Identity Fundamentals guide.
+| Repository | Description |
+|------------|-------------|
+| [SMB Cybersecurity Toolkit](https://github.com/Nanobyte1991/SMB_Cybersecurity_Toolkit) | Audit, secure, and harden SMB protocol services in Windows and Linux environments. |
+| [Security Incident Response Guide](https://github.com/Nanobyte1991/security-incident-response-guide) | Actionable guide for managing security incidents: runbooks, checklists, templates. |
+| [PowerShell Azure Commands](https://github.com/Nanobyte1991/PowerShell-Azure-Commands) | PowerShell scripts to automate Azure management tasks. |
+| [AZ-104 Study Notes](https://github.com/Nanobyte1991/AZ-104-Study-Notes) | Microsoft Azure Administrator Associate study notes and reference material. |
+| [AZ-900 Study Notes](https://github.com/Nanobyte1991/AZ-900-Study-Notes) | Azure Fundamentals certification notes. |
+| [SC-900 Study Notes](https://github.com/Nanobyte1991/SC-900-Study-Notes) | Microsoft Security, Compliance, and Identity Fundamentals guide. |
 
 ---
 
-## 🗂️ Cybersecurity Toolkits & Guides
+## 🏆 GitHub Stats
 
-- [SMB Cybersecurity Toolkit](https://github.com/Nanobyte1991/SMB_Cybersecurity_Toolkit)  
-  A toolkit for auditing, securing, and hardening SMB protocol services.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nanobyte1991&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
 
-- [Security Incident Response Guide](https://github.com/Nanobyte1991/security-incident-response-guide)  
-  A comprehensive guide to incident response including runbooks, checklists, and communication templates.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanobyte1991&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+</p>
 
 ---
 
@@ -67,6 +65,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nanobyte1991&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="GitHub Activity Graph">
-</p>
+## 💬 Let's Collaborate
+
+If you're interested in cloud security, automation, or incident response,  
+**feel free to reach out or collaborate on a project!**
