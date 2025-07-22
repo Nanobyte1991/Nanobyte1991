@@ -14,32 +14,45 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" alt="Interesting GIF">
+  <img src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" alt="Cyber GIF">
 </p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 💼 Senior IT Engineer, Cybersecurity Professional, IT Consultant
+- 💼 **Senior IT Engineer**, **Cybersecurity Professional**, **IT Consultant**
+- 🛡️ Passionate about **Cybersecurity, Automation, and Cloud Infrastructure**
 - 🌱 Currently learning **Developing Cloud Security Strategies**
 
-## PowerShell
+---
 
-- [PowerShell Azure Commands](https://github.com/Nanobyte1991/PowerShell-Azure-Commands)
+## 🛠️ PowerShell
 
-## 📺 Study Guides
+- [PowerShell Azure Commands](https://github.com/Nanobyte1991/PowerShell-Azure-Commands)  
+  PowerShell scripts for managing and automating Azure environments.
 
-- [AZ-104 Study Notes](https://github.com/Nanobyte1991/AZ-104-Study-Notes)
-- [AZ-900 Study Notes](https://github.com/Nanobyte1991/AZ-900-Study-Notes)
-- [SC-900 Study Notes](https://github.com/Nanobyte1991/SC-900-Study-Notes)
+---
 
-## 🤳 Connect with me
+## 📚 Study Guides
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jack-milburn/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
-  </a>
-</p>
+- [AZ-104 Study Notes](https://github.com/Nanobyte1991/AZ-104-Study-Notes)  
+  Microsoft Azure Administrator Associate prep notes.
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nanobyte1991&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="GitHub Activity Graph">
-</p>
+- [AZ-900 Study Notes](https://github.com/Nanobyte1991/AZ-900-Study-Notes)  
+  Azure Fundamentals learning materials.
+
+- [SC-900 Study Notes](https://github.com/Nanobyte1991/SC-900-Study-Notes)  
+  Microsoft Security, Compliance, and Identity Fundamentals guide.
+
+---
+
+## 🗂️ Cybersecurity Toolkits & Resources
+
+- [SMB Cybersecurit]()
+
+- [Cloud Security Automation](https://github.com/Nanobyte1991/Cloud-Security-Automation)  
+  Automating cloud security controls, compliance checks, and monitoring.
+
+- [Incident Response Playbooks](https://github.com/Nanobyte1991/Incident-Response-Playbooks)  
+  Ready-to-use playbooks for various cybersecurity incident sce
